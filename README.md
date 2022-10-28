@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andresrlista
 - 👀 I’m interested in videogames, music, coffee & programming :)
 - 🌱 I’m currently learning about everything!
-- 📫 How to reach me? andresrlista@anlisoft.dev
+- 📫 How to reach me? andresrlista@anlisoft.info
 
 <!---
 andresrlista/andresrlista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
