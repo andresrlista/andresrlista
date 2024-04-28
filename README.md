@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @andresrlista
-- 👀 I’m interested in programming, games, music, COFFEE!
+- 👀 I am interested in programming, games, music, and coffee!
 - 📫 How to reach me? andresrlista@gmail.com
